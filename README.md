@@ -11,5 +11,5 @@ See the solutions that I've published on Exercism in my profile page [here](http
 
 ## my current progress
 
-![progress](https://raw.github.com/mbiagetti/my-exercism-js-track/master/img/Progress_at_2021-04-06.png)
+![progress](https://raw.githubusercontent.com/mbiagetti/my-exercism-js-track/master/img/Progress_at_2021-04-06.png)
 
